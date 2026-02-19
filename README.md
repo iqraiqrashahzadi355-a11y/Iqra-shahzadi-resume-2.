@@ -12,7 +12,7 @@ This project demonstrates structured markup, accessibility-focused layout, and p
 
 This resume is designed with:
 
-✅ Semantic HTML5 tags (<main>, <header>, <section>)
+✅ Semantic HTML5 tags
 
 ✅ Clean and minimal CSS styling
 

@@ -28,13 +28,13 @@ The goal of this project is to showcase frontend fundamentals, structured conten
 
 ## 🛠 Technologies Used
 
-HTML5 (Semantic Structure)
+- HTML5 (Semantic Structure)
 
-CSS3 (Internal Styling)
+- CSS3 (Internal Styling)
 
-Responsive Meta Viewport
+- Responsive Meta Viewport
 
-Clean Typography & Layout Principles
+- Clean Typography & Layout Principles
 
 ## 📂 Project Structure
 ```bash
@@ -48,51 +48,51 @@ Clean Typography & Layout Principles
 
 Structured resume sections:
 
-Professional Objective
+- Professional Objective
 
-Technical Skills
+- Technical Skills
 
-Experience
+- Experience
 
-Projects
+- Projects
 
-Education
+- Education
 
-Additional Information
+- Additional Information
 
-Clear typography hierarchy
+- Clear typography hierarchy
 
-Section-based organization
+- Section-based organization
 
-Lightweight and fast-loading
+- Lightweight and fast-loading
 
-Beginner-friendly and easy to understand
+- Beginner-friendly and easy to understand
 
 # 💼 Why This Project Matters
 
 This resume demonstrates:
 
-Understanding of semantic HTML
+- Understanding of semantic HTML
 
-Clean CSS organization
+- Clean CSS organization
 
-Content structuring for readability
+- Content structuring for readability
 
-Professional presentation skills
+- Professional presentation skills
 
-Attention to detail
+- Attention to detail
 
 It reflects both technical ability and structured thinking.
 
 ## 🚀 How to Use
 
-Download or clone the repository.
+- Download or clone the repository.
 
-Open index.html in your browser.
+- Open index.html in your browser.
 
-Edit content as needed for personalization.
+- Edit content as needed for personalization.
 
-Deploy on GitHub Pages if required.
+- Deploy on GitHub Pages if required.
 
 ## 📬 Contact
 
@@ -104,6 +104,6 @@ Junior Frontend Developer
 🔗 LinkedIn: linkedin.com/in/iqra-shahzadi-haji
 💻 GitHub: github.com/iqraiqrashahzadi355-a11y
 
-##⭐ Final Note
+## ⭐ Final Note
 
 This project reflects continuous learning, structured development practices, and a growth mindset in frontend development

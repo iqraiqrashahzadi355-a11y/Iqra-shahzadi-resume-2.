@@ -2,6 +2,9 @@
 
 A clean, modern, and fully semantic HTML5 resume built using pure HTML and CSS.
 This project demonstrates structured markup, accessibility-focused layout, and professional resume formatting without using unnecessary <div> containers.
+
+##This is the final view:
+
 ![Alt Text](https://github.com/iqraiqrashahzadi355-a11y/Iqra-shahzadi-resume-2./blob/edd5ea5583a4e6215d631f49b8ab0a96da158a67/Screenshot%20(519).png)
 
 

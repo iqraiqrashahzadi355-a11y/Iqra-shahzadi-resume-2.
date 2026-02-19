@@ -1,14 +1,14 @@
-#🌐 Iqra Shahzadi – Semantic HTML Resume
+## 🌐 Iqra Shahzadi – Semantic HTML Resume
 
 A clean, modern, and fully semantic HTML5 resume built using pure HTML and CSS.
 This project demonstrates structured markup, accessibility-focused layout, and professional resume formatting without using unnecessary <div> containers.
 
-##This is the final view:
+## This is the final view:
 
 ![Alt Text](https://github.com/iqraiqrashahzadi355-a11y/Iqra-shahzadi-resume-2./blob/edd5ea5583a4e6215d631f49b8ab0a96da158a67/Screenshot%20(519).png)
 
 
-##📌 About This Project
+## 📌 About This Project
 
 This resume is designed with:
 
@@ -26,7 +26,7 @@ This resume is designed with:
 
 The goal of this project is to showcase frontend fundamentals, structured content hierarchy, and clean styling practices.
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 HTML5 (Semantic Structure)
 
@@ -36,7 +36,7 @@ Responsive Meta Viewport
 
 Clean Typography & Layout Principles
 
-##📂 Project Structure
+## 📂 Project Structure
 ```bash
 /
 │
@@ -44,7 +44,7 @@ Clean Typography & Layout Principles
 └── README.md    # Project documentation
 ```
 
-##🎯 Features
+## 🎯 Features
 
 Structured resume sections:
 
@@ -68,7 +68,7 @@ Lightweight and fast-loading
 
 Beginner-friendly and easy to understand
 
-#💼 Why This Project Matters
+# 💼 Why This Project Matters
 
 This resume demonstrates:
 
@@ -84,7 +84,7 @@ Attention to detail
 
 It reflects both technical ability and structured thinking.
 
-##🚀 How to Use
+## 🚀 How to Use
 
 Download or clone the repository.
 
@@ -94,7 +94,7 @@ Edit content as needed for personalization.
 
 Deploy on GitHub Pages if required.
 
-##📬 Contact
+## 📬 Contact
 
 Iqra Shahzadi
 Junior Frontend Developer
